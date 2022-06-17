@@ -24,7 +24,7 @@ main{
 #face{
    --leet-axis: 0;
 	font-size: 90px;
-   line-height: 1.4;
+   line-height: 1.6;
    transition: color 300ms linear;
    font-variation-settings: 'rdct' var(--leet-axis);
    padding: 0.8rem;
